@@ -7,7 +7,7 @@
 - 当前目录为知识库的核心存储目录，包含所有知识内容的组织结构和索引文件
 
 ## 子目录
-- **archives**: 用于归档历史链接和内容的目录，存储已处理并分类的链接资源。[链接](./archives/context.md)
+- **archives**: 用于归档历史链接和内容的目录，存储已处理并分类的链接资源。采用分类树状结构组织，便于快速查找。[链接](./archives/context.md)
 - **discussions**: 用于存储讨论总结和话题记录的目录，包含基于知识库的讨论内容。[链接](./discussions/context.md)
 - **articles**: 用于存放输出文章的目录，存储基于知识库辅助创作的文章内容。[链接](./articles/context.md)
 - **indexes**: 用于维护语义索引的目录，包含知识库的语义索引和检索信息。[链接](./indexes/context.md)

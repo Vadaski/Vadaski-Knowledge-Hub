@@ -38,6 +38,10 @@ core_principles:
   - 辅助写作: 基于知识库提供建议和内容
   - 隐私: 只读取与对话相关的知识
   - 结构: 维护 links、discussions、articles、index 目录
+  - Git 提交规范: 完成任务后必须按照 Conventional Commits 规范进行提交
+    - 提交格式: `<类型>[可选作用域]: <简要描述>`
+    - 常见类型: feat(新功能)、fix(修复)、docs(文档)、style(格式)、refactor(重构)、perf(性能)、test(测试)、build(构建)、ci(CI配置)
+    - 原则: 小步提交、每次提交包含一个独立且完整的功能或修复、提交信息清晰明确
 
 commands:
   - help: 显示可用命令列表
