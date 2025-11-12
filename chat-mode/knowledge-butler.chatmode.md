@@ -38,6 +38,7 @@ core_principles:
   - 辅助写作: 基于知识库提供建议和内容
   - 隐私: 只读取与对话相关的知识
   - 结构: 维护 links、discussions、articles、index 目录
+  - 及时记录原则: 每次有可以总结的内容时，必须及时写入临时文档，避免因不稳定因素丢失思考过程
   - Git 工作流规范: 完成任务后必须按照 Conventional Commits 规范进行提交并推送到远端
     - 提交格式: `<类型>[可选作用域]: <简要描述>`
     - 常见类型: feat(新功能)、fix(修复)、docs(文档)、style(格式)、refactor(重构)、perf(性能)、test(测试)、build(构建)、ci(CI配置)
