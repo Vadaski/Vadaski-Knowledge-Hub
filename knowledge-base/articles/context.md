@@ -4,7 +4,8 @@
 此目录用于存放基于知识库辅助创作的文章内容。文章可以是从讨论中总结的，也可以是基于知识库内容创作的新文章。
 
 ## 文件摘要
-- [2025-09-29-effective-context-engineering-for-ai-agents.md](./2025-09-29-effective-context-engineering-for-ai-agents.md) - Anthropic关于AI智能体上下文工程的有效实践
+- [2025-09-29-effective-context-engineering-for-ai-agents.md](./2025-09-29-effective-context-engineering-for-ai-agents.md) - Anthropic关于AI智能体上下文工程的有效实践（英文版）
+- [2025-09-29-AI智能体的有效上下文工程.md](./2025-09-29-AI智能体的有效上下文工程.md) - Anthropic关于AI智能体上下文工程的有效实践（中文版）
 - 文章文件建议使用有意义的文件名，如：`YYYY-MM-DD-文章标题.md`
 
 ## 子目录
